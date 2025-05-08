@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Laravel Blog Platform - README</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 2rem; line-height: 1.6; }
-    h1, h2, h3 { color: #2c3e50; }
-    code { background: #f4f4f4; padding: 2px 5px; border-radius: 4px; }
-    pre { background: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
-    table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
-    th, td { border: 1px solid #ddd; padding: 8px; }
-    th { background-color: #f8f8f8; }
-  </style>
-</head>
-<body>
+
 
 <h1>Laravel Blog Platform (REST API + Web)</h1>
 

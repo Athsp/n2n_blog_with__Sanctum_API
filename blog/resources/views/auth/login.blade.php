@@ -5,7 +5,7 @@
 <div class="d-flex justify-content-center align-items-center vh-100">
     <form method="POST" action="{{ route('register') }}" class="p-4 rounded shadow-lg bg-white" style="width: 400px;">
         @csrf
-        <h3 class="text-center mb-4">Register</h3>
+        <h3 class="text-center mb-4">login</h3>
         <div class="mb-3">
             <label class="form-label">Name</label>
             <input type="text" name="name" class="form-control shadow-sm" required>
